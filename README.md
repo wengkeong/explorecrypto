@@ -12,8 +12,6 @@ Understand crypto assets, making sense of the data gathered from api like what i
 Long-Term goal: 
 Validating these data from other sources, get more in depth into crypto assets of interest and making use of API to get updated market intelligence if possible and using this information to select quality crypto assets for investment
 
-### 1.3	RISKS AND ISSUES
-All the data is collated from https://min-api.cryptocompare.com/, it is a free public api platform for crypto assets. Quality, reliability, accuracy of data and its completeness may be of concern and therefore there is a need to validate some of the data through other sources
 
 ## 2.	DATA SOURCE
 ### 2.1	API Platform
